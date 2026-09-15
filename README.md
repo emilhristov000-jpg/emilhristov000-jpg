@@ -5,7 +5,7 @@
 * 💻 I mainly work with **Python, Flask and SQL**
 * 🔐 I’m especially interested in **Cybersecurity, Backend Development & Automation**
 * 💬 Ask me about **Python, Flask, APIs and Backend Development**
-* ⚡ Fun fact: **Try not to be an idiot.**
+* ⚡ Fun fact: **I Try not to be an idiot.**
 
 <h3 align="left">Languages and Tools:</h3>
 
