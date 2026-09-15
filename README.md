@@ -1,11 +1,11 @@
-<h3 align="center">Currently Learning & Building</h3>
+<h3 align="center">Python Backend Developer • Cybersecurity Enthusiast</h3>
 
-* 🔭 I’m currently working on **Schüler helfen Schüler**
+* 🔭 I’m currently working on **Students Help Students**
 * 🌱 I’m currently learning **Cybersecurity, Wireshark, Redis, AI Integration & Automation**
-* 💻 I mainly work with **Python, Flask and SQL**
+* 💻 I mainly work with **Python, Flask, APIs and Backend Development**
 * 🔐 I’m especially interested in **Cybersecurity, Backend Development & Automation**
 * 💬 Ask me about **Python, Flask, APIs and Backend Development**
-* ⚡ Fun fact: **I Try not to be an idiot.**
+* ⚡ Fun fact: **Breaking things to understand them..**
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -44,9 +44,5 @@
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
 </a>
 </p>
